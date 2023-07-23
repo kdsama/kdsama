@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Kshitij
-- 👀 I’m interested in memes! and a bit of coding here and there 
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on open-source projects if I have time . 
+- 🌱 Getting better at Go, one day at a time.
 -    I have experience as Team Lead in cybersecurity and IOT based startups. I have dominantly worked on Nodejs Mongodb and maintaining infrastructure.
 - 📫 How to reach me :: @dhingrachief on Twitter
